@@ -1,0 +1,5 @@
+*.exe
+include/include/SFML/
+*.a
+*.dll
+*.gch

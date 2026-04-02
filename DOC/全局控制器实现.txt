@@ -1,0 +1,3 @@
+中央控制单元
+Center Control Unit(CCU)
+CCU需要向用户提供接口，并操纵所有组件（地图，生物）
