@@ -1,8 +1,21 @@
 # Ecosystem-Simulator
-【Ecosystem Simulator/原创生态模拟器】简单生态模拟器开发
 
-## 架构
-基于插件式的热拔插模拟器架构
+一个基于**插件化架构**的生态模拟器，用于模拟生物群落、地形演变等生态过程。
 
-## 开发状态
-快速迭代阶段，正在重写代码以获得更好的稳定性和可扩展性
+---
+
+## ✨ 特性
+
+- **插件化架构** – 动态加载地形模块。并内置MapSDK,支持扩展的地形
+- **Windows 支持** – 当前版本已测试 Windows 10
+
+---
+
+## 🚀 快速开始
+
+### 下载运行版
+前往 [Releases](https://github.com/WinterRealm/Ecosystem-Simulator/releases) 页面，下载 `Ecosystem-Simulator_Dev1.0.0-beta.1_Windows_runtime.zip`，解压后直接运行 `Ecosystem_Simulator.exe`。
+
+## 报告错误
+请在Issues页面提交议题。
+
