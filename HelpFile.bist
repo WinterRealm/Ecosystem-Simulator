@@ -1,6 +1,0 @@
-"Available commands:"
-        "  help  - Show this help message"
-        "  next  - Next operation"
-        "  flush - Flush buffer/data"
-        "  quit  - Quit the program"
-        "  check - Check status"
